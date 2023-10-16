@@ -1,0 +1,30 @@
+.bulk-upload-btn:hover {
+    background-color: #E9ECF9 !important;
+}
+.add-new-btn:hover {
+    background-color: #092646;
+}
+.download-btn {
+    border: 2px solid #D7D7D7;
+    margin-right: 7px;
+}
+.printer-btn {
+    border: 2px solid #D7D7D7;
+    margin-right: 7px;
+}
+.product-search-field {
+    image: url("../../Assets//icons/search-icon.svg");
+    background-repeat: no-repeat;
+    background-position: 15px;
+}
+.items-added {
+    background-color: #E4F1FF !important;
+    margin-left: 15px;
+    padding: 5px 8px;
+    border-radius: 5px;
+}
+.grey-border {
+    border: 2px solid #D7D7D7 !important;
+    padding: 10px !important;
+    margin-left: 4px !important;
+}

@@ -1,0 +1,107 @@
+export const productsData = [
+    {
+        id: 1,
+        image: "",
+        productName: "Xylor_10mg_tab",
+        sku: "HOM_001",
+        weight: "10mg",
+        category: "Tablet",
+        price: 123,
+        stock: 10,
+        expiryDate: "23-1-2023",
+        status: "Available"
+    },
+    {
+        id: 2,
+        image: "",
+        productName: "Xylor_syp",
+        sku: "HOM_002",
+        weight: "60ml",
+        category: "Syrup",
+        price: 60,
+        stock: 8,
+        expiryDate: "23-1-2023",
+        status: "Low"
+    },
+    {
+        id: 3,
+        image: "",
+        productName: "Melas_cream_15gm",
+        sku: "HOM_003",
+        weight: "15mg",
+        category: "Tablet",
+        price: 100,
+        stock: 0,
+        expiryDate: "23-1-2023",
+        status: "Out of Stock"
+    },
+    {
+        id: 4,
+        image: "",
+        productName: "Terbiderm_125mg_tab",
+        sku: "HOM_004",
+        weight: "125mg",
+        category: "Tablet",
+        price: 223,
+        stock: 20,
+        expiryDate: "23-1-2023",
+        status: "Available"
+    },
+    {
+        id: 5,
+        image: "",
+        productName: "Terbiderm_cream_10gm",
+        sku: "HOM_001",
+        weight: "10mg",
+        category: "Cream",
+        price: 80,
+        stock: 50,
+        expiryDate: "23-1-2023",
+        status: "Available"
+    },
+    {
+        id: 6,
+        image: "",
+        productName: "Hyderquin_plus_cream",
+        sku: "HOM_006",
+        weight: "15g",
+        category: "Cream",
+        price: 90,
+        stock: 60,
+        expiryDate: "23-1-2023",
+        status: "Available"
+    },{
+        id: 7,
+        image: "",
+        productName: "Hyderquin_4_cream",
+        sku: "HOM_007",
+        weight: "10g",
+        category: "Cream",
+        price: 520,
+        stock: 16,
+        expiryDate: "23-1-2023",
+        status: "Available"
+    },{
+        id: 8,
+        image: "",
+        productName: "Terbiderm_forte_tab",
+        sku: "HOM_008",
+        weight: "20mg",
+        category: "Tablet",
+        price: 950,
+        stock: 25,
+        expiryDate: "23-1-2023",
+        status: "Available"
+    },{
+        id: 9,
+        image: "",
+        productName: "Xylor_10mg_tab",
+        sku: "HOM_009",
+        weight: "10mg",
+        category: "Tablet",
+        price: 150,
+        stock: 30,
+        expiryDate: "23-1-2023",
+        status: "Available"
+    },    
+]
